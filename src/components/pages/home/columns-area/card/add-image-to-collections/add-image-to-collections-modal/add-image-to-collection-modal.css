@@ -1,0 +1,9 @@
+.collection-button-modal {
+  background-color: rgb(209, 209, 209);
+  color: rgb(117, 117, 117);
+}
+.collection-button-modal:hover {
+  transition: 0.34s;
+  background-color: rgb(151, 151, 151);
+  color: black;
+}

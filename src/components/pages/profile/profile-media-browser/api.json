@@ -1,0 +1,6 @@
+{
+  "baseUrl": "https://192.168.1.45:8080/api",
+  "deleteImage": "https://192.168.1.45:8080/api/delete-image",
+  "addImageToCollection": "https://192.168.1.45:8080/api/add-image-to-collection",
+  "deleteCollection": "https://192.168.1.45:8080/api/delete-collection"
+}

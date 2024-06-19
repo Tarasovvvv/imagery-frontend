@@ -1,0 +1,27 @@
+.stats {
+  display: flex;
+  flex-direction: row;
+  justify-content: right;
+  box-sizing: border-box;
+  padding-right: 10px;
+  height: 12px;
+}
+.box {
+  display: flex;
+  box-sizing: border-box;
+  margin-left: 10px;
+}
+.item {
+  box-sizing: border-box;
+  border: 0;
+  padding: 0;
+  color: rgb(173, 173, 173);
+  fill: white;
+  margin-left: 5px;
+  font-size: 15px;
+  line-height: normal;
+  text-align: center;
+}
+.red-color {
+  color: rgb(255, 67, 67);
+}

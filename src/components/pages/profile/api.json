@@ -1,0 +1,7 @@
+{
+  "baseUrl": "https://192.168.1.45:8080/api",
+  "profile": "https://192.168.1.45:8080/api/profile?userName=",
+  "media": "https://192.168.1.45:8080/api/profile-",
+  "mediaAmounts": "https://192.168.1.45:8080/api/profile-media-amounts?userName=",
+  "login": "https://192.168.1.45:8080/api/login"
+}

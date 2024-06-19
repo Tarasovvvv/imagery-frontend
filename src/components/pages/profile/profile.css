@@ -1,0 +1,78 @@
+.profile-page {
+}
+
+.user {
+  display: flex;
+  justify-content: left;
+  margin: 0 auto;
+  margin-top: 100px;
+  margin-bottom: 50px;
+  width: 1000px;
+}
+
+.user-photo-area {
+  box-sizing: border-box;
+  margin-right: 50px;
+  padding: 10px;
+  height: 200px;
+}
+
+.user-photo {
+  box-sizing: border-box;
+  border: 1px solid black;
+  border-radius: 100%;
+  padding: 3px;
+  aspect-ratio: 1/1;
+  width: 200px;
+}
+
+.user-description {
+  margin-top: 10px;
+  font-size: 20px;
+  overflow-wrap: break-word;
+}
+
+.create-date {
+  margin-top: 10px;
+  font-weight: bold;
+  text-align: center;
+}
+
+.user-data {
+  padding-top: 10px;
+}
+
+.user-name {
+  font-size: 50px;
+  line-height: 0.8;
+}
+
+.media {
+  box-sizing: border-box;
+}
+
+.media-buttons-area {
+  display: flex;
+  justify-content: center;
+  box-sizing: border-box;
+  margin: 0 auto;
+  border-bottom: 1px solid rgb(0, 0, 0);
+  max-width: 1220px;
+}
+
+.media-button {
+  display: flex;
+  transform: translate(1px, 1px);
+  cursor: pointer;
+  border: 1px solid transparent;
+  border-radius: 5px 5px 0 0;
+  padding: 10px;
+  height: 18px;
+  font-size: 18px;
+  line-height: 1;
+  text-align: center;
+}
+
+.margin-right-10px {
+  margin-right: 10px;
+}

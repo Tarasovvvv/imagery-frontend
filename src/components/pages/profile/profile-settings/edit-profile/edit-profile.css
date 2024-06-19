@@ -1,0 +1,78 @@
+.edit-profile-page {
+  border: 1px solid black;
+  border-radius: 5px;
+  border-top-left-radius: 0;
+  border-bottom-left-radius: 0;
+  padding: 10px;
+  width: 610px;
+}
+
+.edit-profile-photo {
+  box-sizing: border-box;
+  margin-bottom: 10px;
+  border: 1px solid black;
+  border-radius: 100%;
+  padding: 3px;
+  aspect-ratio: 1/1;
+  width: 200px;
+}
+
+.udpate-photo-button {
+  cursor: pointer;
+  box-sizing: content-box;
+  border: 1px solid transparent;
+  border-radius: 5px;
+  background-color: rgb(233, 233, 233);
+  padding: 0;
+  width: 200px;
+  height: 31px;
+  color: rgb(128, 128, 128);
+  font-size: 16px;
+}
+
+.udpate-photo-button:hover {
+  transition: 0.34s;
+  background-color: rgb(202, 202, 202);
+  color: rgb(0, 0, 0);
+}
+
+.margin-right-10px {
+  margin-right: 10px;
+}
+
+.no-bottom-border {
+  border-bottom: 0 solid white;
+}
+
+.width-250px {
+  width: 250px;
+}
+
+.width-610px {
+  width: 610px;
+}
+
+.padding-5px {
+  padding: 5px;
+}
+
+.no-padding-top {
+  padding-top: 0;
+  padding-bottom: 0;
+}
+
+.no-margin-bottom {
+  margin-bottom: 0;
+}
+
+.no-margin-top {
+  margin-top: -5px;
+}
+
+.width-expand {
+  width: 398px;
+}
+
+.edit-profile-label {
+  margin-top: 5px;
+}

@@ -1,0 +1,4 @@
+{
+  "baseUrl": "https://192.168.1.45:8080/api",
+  "editProfile": "https://192.168.1.45:8080/api/edit-profile"
+}

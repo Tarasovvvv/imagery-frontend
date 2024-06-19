@@ -1,0 +1,6 @@
+{
+  "baseUrl": "https://192.168.1.45:8080/api",
+  "collectionImages": "https://192.168.1.45:8080/api/collection-images?collectionId=",
+  "login": "https://192.168.1.45:8080/api/login",
+  "collection": "https://192.168.1.45:8080/api/collection?id="
+}

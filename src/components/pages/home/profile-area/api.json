@@ -1,0 +1,8 @@
+{
+  "baseUrl": "https://192.168.1.45:8080/api",
+  "login": "https://192.168.1.45:8080/api/login",
+  "register": "https://192.168.1.45:8080/api/register",
+  "logout": "https://192.168.1.45:8080/api/logout",
+  "profile": "https://192.168.1.45:8080/api/profile",
+  "settings": "https://192.168.1.45:8080/api/settings"
+}

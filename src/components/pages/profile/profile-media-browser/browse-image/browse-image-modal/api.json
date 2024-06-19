@@ -1,0 +1,5 @@
+{
+  "baseUrl": "https://192.168.1.45:8080/api",
+  "addImage": "https://192.168.1.45:8080/api/add-image",
+  "login": "https://192.168.1.45:8080/api/login"
+}

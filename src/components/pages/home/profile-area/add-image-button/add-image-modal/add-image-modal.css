@@ -1,0 +1,17 @@
+.add-image-modal-page {
+  flex-direction: column;
+  font-size: 25px;
+  text-align: center;
+}
+
+.padding-10px {
+  padding: 10px;
+}
+
+.font-size-16px {
+  font-size: 16px;
+}
+
+.display-flex {
+  display: flex;
+}

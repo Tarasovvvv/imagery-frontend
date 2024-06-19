@@ -1,0 +1,11 @@
+.columns-area {
+  display: flex;
+  justify-content: center;
+  margin-top: 62px;
+  width: 100%;
+}
+
+.column {
+  margin: 0 5px;
+  width: 400px;
+}

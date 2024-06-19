@@ -1,0 +1,4 @@
+{
+  "baseUrl": "https://192.168.1.45:8080/api",
+  "changePassword": "https://192.168.1.45:8080/api/change-password"
+}

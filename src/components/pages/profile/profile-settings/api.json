@@ -1,0 +1,5 @@
+{
+  "baseUrl": "https://192.168.1.45:8080/api",
+  "settings": "https://192.168.1.45:8080/api/settings",
+  "ckeckAuth": "https://192.168.1.45:8080/api/check-auth"
+}
